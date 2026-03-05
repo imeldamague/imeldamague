@@ -25,9 +25,9 @@ Le trafic réseau est analysé par Snort afin de détecter des comportements sus
 Snort a été installé et configuré sur un système Linux.
 
 Des règles personnalisées ont été ajoutées dans le fichier :
-
+```
 /etc/snort/rules/local.rules
-
+```
 
 Ces règles permettent de détecter différents types d’activités suspectes sur le réseau.
 
@@ -40,9 +40,9 @@ Plusieurs règles personnalisées ont été créées pour détecter différentes
 ### 1️⃣ Détection de Ping ICMP
 
 Détection des scans réseau utilisant ICMP.
-
+```
 alert icmp any any -> $HOME_NET any (msg:"ALERTE - Ping ICMP detecte vers le reseau interne";)
-
+```
 
 ---
 
