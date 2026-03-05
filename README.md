@@ -424,17 +424,16 @@ Captures du projet
 - 🔄 Gestion de projet (Méthode Agile)  
 
 </details>
-# Formation
 
-Ingetis Paris
-Master Cybersécurité et Réseaux
-2025 – en cours
-
-Keyce Academy
-Licence Cybersécurité
-2021 – 2024
 
 ---
+
+## 🎓 Formation
+
+| 🏫 Institution | 📚 Diplôme | 📅 Période | 📍 Statut |
+|---------------|-----------|-----------|-----------|
+| **Ingetis Paris** | Master 1 Cybersécurité & Réseaux | Septembre 2025 – Présent | En cours |
+| **Keyce Academy** | Bachelor Administration Systèmes, Réseaux & Sécurité | 2024 – 2025 | Diplômée |
 
 # Objectifs professionnels
 
