@@ -393,23 +393,37 @@ Captures du projet
 
 ## 🔎 Compétences Clés
 
-### 🛡️ Spécialisations Cybersécurité
+<details>
+<summary>🛡️ Spécialisations Cybersécurité</summary>
 
-🔐 Opérations SOC / CSIRT  
-🕵️ Évaluation de vulnérabilités  
-🔍 Tests de pénétration (Pentesting)  
+- 🔐 Opérations SOC / CSIRT  
+- 🔎 Évaluation des vulnérabilités  
+- 🔍 Tests de pénétration (Pentesting)  
+- 🌐 Sécurité Réseau  
+- ☁️ Sécurité Cloud  
+- 🔒 Cryptographie  
+- 📊 Gestion des risques  
+- 🚨 Réponse aux incidents  
+- 📋 Conformité (ISO 27001, RGPD)  
+- 🖥️ Administration systèmes  
+- 🌍 Threat Intelligence  
+- 📈 Surveillance sécuritaire  
 
-🌐 Sécurité réseau  
-☁️ Sécurité cloud  
-🔒 Cryptographie  
+</details>
 
-📊 Gestion des risques  
-🚨 Réponse aux incidents  
-📋 Conformité (ISO 27001, RGPD)  
+<details>
+<summary>🚀 Compétences Techniques</summary>
 
-🖥️ Administration système  
-🌍 Renseignement sur les menaces (Threat Intelligence)  
-📈 Surveillance sécuritaire (SOC Monitoring)
+- 🐍 Développement Python  
+- 🔧 Administration systèmes  
+- 🌐 Configuration réseau  
+- 🗄️ Gestion de bases de données  
+- 📊 Analyse de données (Power BI, Excel)  
+- 🛠️ Sécurité d’infrastructure  
+- 📡 Technologies Cloud  
+- 🔄 Gestion de projet (Méthode Agile)  
+
+</details>
 # Formation
 
 Ingetis Paris
