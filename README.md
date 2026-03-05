@@ -435,16 +435,43 @@ Captures du projet
 | **Ingetis Paris** | Master 1 Cybersécurité & Réseaux | Septembre 2025 – Présent | En cours |
 | **Keyce Academy** | Bachelor Administration Systèmes, Réseaux & Sécurité | 2024 – 2025 | Diplômée |
 
-# Objectifs professionnels
-
-Décrocher une alternance en cybersécurité (SOC, sécurité opérationnelle ou administration sécurité)
-
-Développer une expertise en détection des menaces et réponse aux incidents
-
-Approfondir mes compétences en sécurité des systèmes et réseaux
-
-Contribuer à des projets pratiques en cybersécurité
 
 ---
+
+## 💡 Domaines de Focus Actuels
+
+### 🎯 Objectifs 2026
+
+- 🔍 Décrocher une alternance en cybersécurité (SOC / Blue Team)
+- 📚 Poursuivre le Master Cybersécurité & Réseaux
+- 🏆 Obtenir des certifications cybersécurité (Fortinet, ANSSI, Cisco)
+- 🚀 Développer des projets cybersécurité sur GitHub
+- ⭐ Renforcer mes compétences en analyse des menaces et sécurité réseau
+
+
+## 📊 Statistiques GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imeldamague&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imeldamague&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imeldamague&theme=tokyonight)
+
+## 🏆 Réalisations GitHub
+
+![trophy](https://github-profile-trophy.vercel.app/?username=imeldamague&theme=tokyonight&row=1&column=6)
+
+
+
+## 🤝 Connectons-nous & Collaborons !
+
+### 📬 Informations de Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imelda-magu%C3%A9-a769ab271)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeldamague96@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imeldamague)
+
 
 "Sécuriser les infrastructures numériques et contribuer à un cyberespace plus sûr grâce à l’analyse, la prévention et la réponse aux menaces."
