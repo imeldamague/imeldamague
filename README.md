@@ -26,111 +26,51 @@ Sécurité cloud et virtualisation
 
 ---
 
-# Compétences techniques
 
-Programmation et scripting
+## 🔧 Compétences Techniques
 
-Python
-Bash
-PowerShell
-SQL
-HTML
-CSS
-PHP
-Java
-C
+### 🧑‍💻 Programmation & Scripting
 
-Automatisation de tâches et scripts de sécurité.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-Systèmes et administration
+### 🖥️ Systèmes & Administration
 
-Administration Windows Server
-Gestion Active Directory
-Gestion des utilisateurs et GPO
-Administration Linux
-
-Virtualisation
-
-VMware
-Hyper-V
-Proxmox
-
-Administration Microsoft
-
-Azure AD
-Office 365
-Intune
-Dynamics CRM
-Dynamics 365
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
-Réseaux et sécurité
+### 🌐 Outils Réseau & Sécurité
 
-Architecture réseaux sécurisés
-Configuration VLAN
-VPN site-à-site
-ACL
-Analyse du trafic réseau
-
-Technologies
-
-Cisco
-TCP/IP
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-005571?style=for-the-badge)
 
 ---
 
-Cybersécurité
+### ☁️ Cloud & Sécurité
 
-Analyse d'incidents de sécurité
-Analyse de vulnérabilités
-Tests d’intrusion (Pentest)
-Surveillance et analyse de logs
-Détection d’événements de sécurité (SIEM)
-Gestion des vulnérabilités
-Audits de sécurité
-
-Outils
-
-Splunk
-Metasploit
-Nmap
-Wireshark
-Kali Linux
-Snort
-CrowdStrike
-Darktrace
-Bitdefender
-
-Firewall
-IDS / IPS
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge)
+![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=for-the-badge)
 
 ---
 
-Cloud
+### 🗄️ Base de données & Web
 
-Microsoft Azure
-AWS
-Oracle Cloud
-Google Cloud
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-Analyse de données
-
-Power BI
-Excel
-
----
-
-Gestion de projet
-
-Méthodologie Agile
-Gestion de projet informatique
-
----
 
 # Certifications
 
