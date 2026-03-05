@@ -4,20 +4,18 @@
 
 ![SOC](https://img.shields.io/badge/SOC-Intermédiaire-blue)
 ![Incident Response](https://img.shields.io/badge/Réponse_aux_Incidents-Intermédiaire-green)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-Débutant-lightgrey)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-Intermédiaire-purple)
 ![Pentesting](https://img.shields.io/badge/Tests_d'Intrusion-Intermédiaire-orange)
-![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Intermédiaire-purple)
+![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Intermédiaire-lightgrey)
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](imelda mague)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imelda-magu%C3%A9-a769ab271)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeldamague96@gmail.com)
 
 🎓 Étudiante en **Master Cybersécurité & Réseaux – Ingetis Paris**
 
-🔐 Certifiée **Fortinet Associate Cybersecurity**
-
-🚀 **Alternance recherchée à partir de septembre 2026 en cybersécurité**
+🚀 Alternance recherchée à partir de **septembre 2026 en cybersécurité**
 
 ---
 ---
