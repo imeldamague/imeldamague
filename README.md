@@ -195,200 +195,40 @@ Résolution d’incidents techniques.
 
 # Projets Cybersécurité
 
-## SOC Lab – SIEM Splunk
+## 🔬 Projets Cybersécurité
 
-Objectif du projet
+### 🛡️ SOC Lab – SIEM Splunk
+Déploiement d’une plateforme SIEM permettant la centralisation et l’analyse des logs.
 
-Ce projet consiste à déployer une plateforme SIEM (Security Information and Event Management) afin de centraliser, analyser et corréler les logs provenant de différents systèmes pour détecter les incidents de sécurité.
-
-L'objectif est de comprendre le fonctionnement d’un centre opérationnel de sécurité (SOC) et les mécanismes de détection des menaces.
-
-Technologies utilisées
-
-Splunk
-Linux
-Logs système
-
-Environnement du laboratoire
-
-Machine Linux générant des logs système
-Collecte des logs dans Splunk
-Tableaux de bord d’analyse et de surveillance
-
-Étapes réalisées
-
-Installation et configuration de Splunk
-Collecte et centralisation des logs système
-Création de dashboards de surveillance
-Analyse et corrélation des événements de sécurité
-Identification d’activités suspectes
-
-Compétences développées
-
-Analyse d’événements de sécurité
-Surveillance SOC
-Analyse de logs
-Détection d’incidents de sécurité
-
-Captures du projet
-
-assets/splunk-dashboard.png
+🔗 [Voir le projet](soc-lab.md)
 
 ---
 
-## Pentest Lab
+### 🔎 Pentest Lab
+Analyse de vulnérabilités et tests d’intrusion sur un environnement de test.
 
-Objectif du projet
-
-Ce laboratoire vise à analyser les vulnérabilités d’un système ou d’une application web afin de comprendre les techniques utilisées par les attaquants et renforcer la sécurité des systèmes.
-
-Technologies utilisées
-
-Kali Linux
-Nmap
-Metasploit
-
-Environnement du laboratoire
-
-Machine cible vulnérable
-Machine attaquante Kali Linux
-
-Étapes réalisées
-
-Scan réseau pour identifier les machines et services exposés
-Analyse des ports ouverts et services actifs
-Recherche de vulnérabilités exploitables
-Exploitation contrôlée des vulnérabilités
-Rédaction d’un rapport de sécurité
-
-Compétences développées
-
-Analyse de vulnérabilités
-Tests d’intrusion
-Reconnaissance réseau
-Exploitation de failles de sécurité
-
-Captures du projet
-
-assets/pentest-lab.png
+🔗 [Voir le projet](pentest-lab.md)
 
 ---
 
-## Network Security Lab
+### 🌐 Network Security Lab
+Mise en place d’une infrastructure réseau sécurisée avec segmentation VLAN.
 
-Objectif du projet
-
-Mettre en place une infrastructure réseau sécurisée en utilisant des mécanismes de segmentation et de contrôle d’accès.
-
-Ce laboratoire permet de comprendre comment sécuriser un réseau d’entreprise.
-
-Technologies utilisées
-
-Cisco
-VLAN
-ACL
-VPN
-
-Environnement du laboratoire
-
-Réseau simulé avec plusieurs segments
-Configuration de routeurs et commutateurs
-
-Étapes réalisées
-
-Segmentation du réseau à l’aide de VLAN
-Configuration des ACL pour contrôler les communications
-Mise en place d’un VPN pour sécuriser les échanges
-Test des communications entre les réseaux
-
-Compétences développées
-
-Sécurité réseau
-Configuration d’équipements Cisco
-Gestion des accès réseau
-Segmentation des infrastructures
-
-Captures du projet
-
-assets/network-security.png
+🔗 [Voir le projet](network-security-lab.md)
 
 ---
 
-## IDS / IPS Lab
+### 🚨 IDS / IPS Lab
+Déploiement d’un système de détection d’intrusion avec analyse du trafic réseau.
 
-Objectif du projet
-
-Déployer un système de détection et de prévention d’intrusion afin d’identifier et analyser les activités malveillantes sur un réseau.
-
-Technologies utilisées
-
-Snort
-Wireshark
-Kali Linux
-
-Environnement du laboratoire
-
-Machine Snort pour la détection des intrusions
-Machine Kali Linux simulant des attaques
-Analyse du trafic réseau
-
-Étapes réalisées
-
-Installation et configuration de Snort
-Création de règles de détection personnalisées
-Capture et analyse du trafic réseau avec Wireshark
-Simulation d’attaques réseau
-Détection et analyse des alertes générées
-
-Compétences développées
-
-Détection d’intrusions réseau
-Analyse de trafic réseau
-Création de règles IDS
-Analyse d’attaques réseau
-
-Captures du projet
-
-assets/ids-ips-lab.png
+🔗 [Voir le projet](ids-ips-lab.md)
 
 ---
 
-## GLPI Lab – Gestion du parc informatique
+### 🖥️ GLPI Lab
+Implémentation d’une plateforme ITSM pour la gestion des incidents.
 
-Objectif du projet
-
-Mettre en place une solution de gestion du parc informatique et du support IT permettant de gérer les incidents et les demandes des utilisateurs.
-
-Technologies utilisées
-
-GLPI
-MySQL
-Linux
-
-Environnement du laboratoire
-
-Serveur GLPI
-Base de données MySQL
-Interface web de gestion
-
-Étapes réalisées
-
-Installation et configuration de GLPI
-Création des utilisateurs et rôles
-Gestion des tickets d’incidents
-Inventaire du parc informatique
-Suivi et résolution des demandes utilisateurs
-
-Compétences développées
-
-Gestion des incidents IT
-Organisation du support informatique
-Gestion du parc informatique
-Administration d’outils ITSM
-
-Captures du projet
-
-<img width="250" height="250" alt="glpi-lab png" src="https://github.com/user-attachments/assets/8999f7ad-04cd-4d0d-871e-7304fd8577f5" />
+🔗 [Voir le projet](glpi-lab.md)
 
 
 ## 🔎 Compétences Clés
