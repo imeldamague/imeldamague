@@ -372,7 +372,7 @@ Administration d’outils ITSM
 
 Captures du projet
 
-assets/glpi-lab.png
+glpi-lab.png
 
 
 # Formation
