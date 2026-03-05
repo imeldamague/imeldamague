@@ -125,5 +125,24 @@ Cela permet aux analystes SOC d'identifier rapidement les incidents de sécurit�
 <img width="500" height="500" alt="Capture d&#39;écran 2025-08-26 150341" src="https://github.com/user-attachments/assets/b3fadc7f-4cf0-46cb-9514-c7151e0e38e7" />
 
 
+### Analyse des protocoles et des alertes détectées
 
+Cette section du dashboard présente une visualisation des **protocoles réseau impliqués dans les alertes de sécurité** ainsi que les **types d’attaques les plus fréquentes** détectées dans l’environnement de laboratoire.
+
+Le premier graphique montre la **répartition des protocoles utilisés lors des activités suspectes**, notamment :
+- **TCP** : protocole le plus utilisé dans les attaques détectées (ex : scans de ports ou tentatives de connexion).
+- **ICMP** : utilisé dans certains tests de connectivité ou tentatives de reconnaissance réseau.
+- **UDP** : utilisé dans certains scénarios d’attaque ou de trafic anormal.
+
+Le second graphique présente le **Top des alertes générées par l’IDS Snort**, notamment :
+- **Scan de ports détecté – activité suspecte**
+- **Tentative de connexion SSH détectée**
+- **Ping ICMP vers le réseau interne**
+- **Trafic anormal pouvant indiquer une attaque DDoS**
+- **BAD-TRAFFIC (trafic suspect entre la même source et destination)**
+
+Ces visualisations permettent aux analystes SOC d’identifier rapidement les **types d’attaques les plus fréquents et les protocoles réseau les plus utilisés par les activités malveillantes**, facilitant ainsi l’analyse et la réponse aux incidents.
+
+
+<img width="1305" height="538" alt="Capture d&#39;écran 2025-08-31 130919" src="https://github.com/user-attachments/assets/42d3734d-7d63-4509-8d25-b49d6f6c00eb" />
 
