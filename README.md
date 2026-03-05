@@ -372,7 +372,7 @@ Administration d’outils ITSM
 
 Captures du projet
 
-<img width="853" height="638" alt="glpi-lab png" src="https://github.com/user-attachments/assets/8999f7ad-04cd-4d0d-871e-7304fd8577f5" />
+<img width="250" height="250" alt="glpi-lab png" src="https://github.com/user-attachments/assets/8999f7ad-04cd-4d0d-871e-7304fd8577f5" />
 
 
 # Formation
