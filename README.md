@@ -52,7 +52,7 @@
 
 🔐 **Actuellement à la recherche d'une alternance en cybersécurité à partir de septembre 2026** (SOC, sécurité opérationnelle, administration sécurité) afin de mettre en pratique mes compétences et contribuer à la protection des systèmes d'information.
 
-🌟 **Domaines de spécialisation :**
+ **Domaines de spécialisation :**
 
 - 🛡️ **Opérations SOC / Analyse de sécurité** – surveillance des événements, analyse de logs et détection d'incidents  
 - 🔎 **Analyse de vulnérabilités & Pentesting** – utilisation de Kali Linux, Nmap et Metasploit  
@@ -379,7 +379,7 @@ Analyse des mécanismes de sécurité Windows, notamment :
 
 ---
 
-# ⭐ Atouts
+#  Atouts
 
 🔹 Rigueur et sens de l’organisation  
 🔹 Capacité d’analyse et résolution de problèmes  
