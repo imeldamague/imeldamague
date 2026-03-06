@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0dd5366b-269c-4dcc-bcb3-7e36b6c9cf1c" width="180"/>
+<img src="https://github.com/user-attachments/assets/6bdd8192-08ef-4e53-aab6-80b14161f302" width="180"/>
 </p>
 
 <h1 align="center">👋 Bonjour, je suis Imelda Magué</h1>
@@ -39,6 +39,9 @@
 🎓 Étudiante en **Master Cybersécurité & Réseaux – Ingetis Paris**
 
 🔎 Intéressée par les domaines **SOC, Threat Detection, Analyse de logs et Réponse aux incidents**
+
+---
+
 ## 🚀 À propos de moi
 
 🎓 Étudiante en **Master Cybersécurité & Réseaux**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
