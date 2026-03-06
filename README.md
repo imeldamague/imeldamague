@@ -194,80 +194,110 @@ Gestion des comptes Active Directory.
 Résolution d’incidents techniques.
 
 # Projets Cybersécurité
-# 🔬 Projets Cybersécurité
+
 
 Cette section présente plusieurs laboratoires pratiques réalisés dans le cadre de ma formation en **cybersécurité et sécurité des infrastructures informatiques**.
 
 Chaque projet démontre la mise en œuvre de concepts de sécurité utilisés dans les environnements professionnels.
 
----
 
-## 🛡️ SOC Lab – SIEM Splunk
+## 🔍 SOC Lab – SIEM Monitoring
 
-Mise en place d’une plateforme **SIEM avec Splunk** permettant la centralisation et l’analyse des logs de sécurité.
+Mise en place d’un **SIEM avec Splunk** afin de centraliser et analyser les logs de sécurité.
 
-Ce laboratoire montre comment un SOC peut surveiller les événements de sécurité et détecter les activités suspectes.
+Le système récupère les alertes générées par un **IDS (Snort)** et permet la visualisation en temps réel des événements de sécurité via un tableau de bord.
 
-🔗 [Voir le projet](projects/soc-lab/README.md)
-
----
-
-## 🔍 IDS / IPS Lab – Snort
-
-Déploiement d’un système **IDS / IPS avec Snort** afin de détecter les activités malveillantes sur le réseau.
-
-Des règles personnalisées ont été configurées pour identifier plusieurs types d’attaques comme les scans de ports, les requêtes HTTP suspectes ou les tentatives de connexion SSH.
-
-🔗 [Voir le projet](./projects/snort-ids-ips-lab)
+🔗 [Voir le projet](projects%20/soc-lab)
 
 ---
 
-## 🧪 Pentest Lab – Metasploit
+## 🛡️ IDS / IPS Lab – Snort
 
-Analyse de vulnérabilités et simulation d’attaques sur une machine vulnérable en utilisant **Kali Linux, Nmap et Metasploit**.
+Déploiement d’un système **IDS / IPS avec Snort** pour détecter les activités malveillantes sur un réseau.
 
-Ce laboratoire permet de comprendre les techniques utilisées par les attaquants afin de mieux sécuriser les systèmes.
+Des **règles personnalisées** ont été créées afin d’identifier plusieurs types d’attaques :
 
-🔗 [Voir le projet](projects/pentest-lab/README.md)
+- Ping ICMP
+- Requêtes HTTP
+- Tentatives de connexion SSH
+- Scan de ports
+- Attaques DDoS
+
+🔗 [Voir le projet](projects%20/snort-ids-ips-lab)
+
+---
+
+## 💻 Pentest Lab – Metasploit
+
+Simulation d’un **test d’intrusion** sur une machine vulnérable (Metasploitable).
+
+Ce laboratoire comprend :
+
+- Scan réseau avec **Nmap**
+- Identification des services et versions
+- Recherche de vulnérabilités
+- Exploitation avec **Metasploit**
+
+🔗 [Voir le projet](projects%20/pentest-lab)
 
 ---
 
 ## 🌐 Network Architecture Lab
 
-Conception d’une **architecture réseau d’entreprise multi-sites** avec segmentation VLAN, routage et sécurisation des communications.
+Conception et analyse d’une **architecture réseau sécurisée** incluant :
 
-Ce projet démontre comment organiser et sécuriser l’infrastructure réseau d’une entreprise.
+- segmentation réseau
+- services réseau
+- analyse de l’infrastructure
 
-🔗 [Voir le projet](projects/network-architecture-lab/README.md)
+Ce projet illustre les bases de la **conception réseau en entreprise**.
+
+🔗 [Voir le projet](projects%20/network-architecture-lab)
 
 ---
 
-## 🖥️ GLPI Lab – Gestion du support IT
+## 🧰 GLPI Lab – IT Asset Management
 
-Mise en place de **GLPI** pour la gestion du parc informatique et des tickets d’incidents.
+Installation et configuration de **GLPI**, un outil de gestion de parc informatique.
 
-Ce projet illustre le fonctionnement d’un service de support IT avec le suivi des équipements et des demandes utilisateurs.
+Le laboratoire inclut :
 
-🔗 [Voir le projet](projects/glpi-lab/README.md)
+- installation du serveur
+- configuration de la base de données
+- gestion des équipements
+- système de tickets
+
+🔗 [Voir le projet](projects%20/glpi-lab)
 
 ---
 
 ## 🔐 Cryptography Lab
 
-Exploration des mécanismes de chiffrement avec **OpenSSL et PowerShell**, incluant le chiffrement symétrique et l’implémentation du chiffrement de César.
+Travaux pratiques sur les **principes de cryptographie** et de sécurité des données.
 
-🔗 [Voir le projet](projects/cryptography-lab/README.md)
+Le laboratoire explore :
+
+- chiffrement
+- sécurité des données
+- mécanismes cryptographiques utilisés dans les systèmes informatiques.
+
+🔗 [Voir le projet](projects%20/cryptography-lab)
 
 ---
 
-## 🛡️ Windows Security Lab – SAM & SID
+## 🪟 Windows Security Lab
 
-Analyse des mécanismes de sécurité Windows liés à la gestion des **SID (Security Identifiers)** et à la protection de la **base SAM** contenant les informations d’authentification des utilisateurs.
+Analyse des mécanismes de sécurité Windows, notamment :
 
-🔗 [Voir le projet](projects/windows-security-lab/README.md)
+- structure **SAM / SID**
+- gestion des comptes utilisateurs
+- mécanismes d’authentification Windows
 
+🔗 [Voir le projet](projects%20/windows-security-lab)
 
+---
 
+⭐ Ces laboratoires ont été réalisés dans un environnement de **machines virtuelles et de simulation d’attaques** afin de développer des compétences pratiques en **cybersécurité offensive et défensive**.
 ## 🔎 Compétences Clés
 
 <details>
