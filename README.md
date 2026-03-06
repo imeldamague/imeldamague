@@ -16,12 +16,12 @@
 🎓 Étudiante en **Master Cybersécurité & Réseaux – Ingetis Paris**
 
 🚀 Alternance recherchée à partir de **septembre 2026 en cybersécurité**
-
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=30&center=true&vCenter=true&width=900&lines=Imelda+Magué;Cybersecurity+Student;SOC+Analyst+in+Training;Looking+for+a+Cybersecurity+Apprenticeship+in+France" />
 ---
 ---
 ## 🚀 À propos de moi
 
-🎓 Étudiante en **Master Cybersécurité & Réseaux à Ingetis Paris**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
+🎓 Étudiante en **Master Cybersécurité & Réseaux**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
 
 🛡️ Je développe des compétences en **cybersécurité opérationnelle**, notamment dans la surveillance des systèmes, l’analyse des incidents de sécurité, l’évaluation des vulnérabilités et la sécurisation des infrastructures réseaux et systèmes.
 
@@ -165,33 +165,37 @@ ISO 27001 Foundation (en cours)
 
 ---
 
-# Expériences professionnelles
-
-Analyste Cybersécurité – TSG Cameroun
-
-Déploiement et configuration d’un SIEM Splunk pour centraliser les logs de sécurité.
-Analyse d’alertes et investigation d’incidents de sécurité.
-Analyse de vulnérabilités et recommandations de sécurité.
-Supervision des systèmes et du réseau avec Zabbix.
-Sensibilisation des utilisateurs aux bonnes pratiques de cybersécurité.
+# 💼 Points forts de l’expérience professionnelle
 
 ---
 
-Administratrice Système et Réseau – TSA Consulting
+## 🛡️ TSG Cameroun — Analyste Cybersécurité (4 mois)
 
-Configuration de réseaux VLAN et infrastructures Wi-Fi.
-Administration de la solution GLPI pour la gestion des tickets et du parc informatique.
-Virtualisation des systèmes avec VMware.
-Rédaction de documentation technique.
+🔹 Déploiement et configuration d’un **SIEM Splunk** pour centraliser et analyser les logs de sécurité.  
+🔹 Analyse d’alertes de sécurité et **investigation d’incidents**.  
+🔹 Réalisation d’analyses de **vulnérabilités** et recommandations de sécurité.  
+🔹 Supervision des systèmes et du réseau avec **Zabbix**.  
+🔹 Sensibilisation des utilisateurs aux **bonnes pratiques de cybersécurité**.
 
 ---
 
-Assistante Support et Réseaux – FIDIT Conseil
+## 🌐 TSA Consulting Cameroun — Administratrice Système & Réseau (Stage – 4 mois)
 
-Support technique utilisateurs.
-Maintenance des postes informatiques.
-Gestion des comptes Active Directory.
-Résolution d’incidents techniques.
+🔹 Configuration d’infrastructures réseau (**VLAN, Wi-Fi**).  
+🔹 Déploiement et administration de la solution **GLPI** pour la gestion du parc informatique et des tickets.  
+🔹 Mise en place de la **virtualisation avec VMware**.  
+🔹 Rédaction de **documentation technique** et procédures IT.
+
+---
+
+## 🖥️ FIDIT Conseil Cameroun — Assistante Support & Réseaux (Stage – 6 mois)
+
+🔹 Support technique utilisateurs et **résolution d’incidents**.  
+🔹 Maintenance des postes de travail et diagnostic des pannes.  
+🔹 Gestion des comptes **Active Directory**.  
+🔹 Application des **bonnes pratiques de sécurité informatique**.
+
+---
 
 # Projets Cybersécurité
 
@@ -382,3 +386,15 @@ Analyse des mécanismes de sécurité Windows, notamment :
 
 
 "Sécuriser les infrastructures numériques et contribuer à un cyberespace plus sûr grâce à l’analyse, la prévention et la réponse aux menaces."
+
+
+
+
+
+# ⭐ Support
+
+Si vous trouvez mon travail intéressant,  
+n'hésitez pas à **donner une étoile ⭐ au repository** !
+
+
+![Alternance](https://img.shields.io/badge/Recherche-Alternance%20Cybersecurite-success?style=for-the-badge)
