@@ -1,3 +1,34 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Future+SOC+Analyst;Blue+Team+%7C+Threat+Detection;Network+Security+%7C+Incident+Response;Always+Learning+Cybersecurity" />
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Future+SOC+Analyst;Blue+Team+%7C+Threat+Detection;Network+Security+%7C+Incident+Response;Always+Learning+Cybersecurity" />
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0dd5366b-269c-4dcc-bcb3-7e36b6c9cf1c" width="180"/>
+</p>
+
+<h1 align="center">👋 Bonjour, je suis Imelda Magué</h1>
+
+<p align="center">
+🛡️ Administratrice Réseaux & Sécurité | Future Analyste SOC<br>
+🔐 Passionnée par la cybersécurité et la protection des infrastructures numériques
+</p>
+
+<p align="center">
+🚀 Alternance recherchée en cybersécurité (SOC / Blue Team / Pentest) à partir de septembre 2026
+</p>
+
+# 👋 Bonjour, je suis Imelda Magué
+
+🛡️ Administratrice Réseaux & Sécurité | Future Analyste SOC | Passionnée par la Cybersécurité
+
+![WhatsApp Image 2026-01-22 at 19 32 49](https://github.com/user-attachments/assets/0dd5366b-269c-4dcc-bcb3-7e36b6c9cf1c)
+
+
 # 👋 Bonjour, je suis Imelda Magué
 
 🛡️ Administratrice Réseaux & Sécurité | Future Analyste SOC | Passionnée par la Cybersécurité
