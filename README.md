@@ -194,41 +194,78 @@ Gestion des comptes Active Directory.
 Résolution d’incidents techniques.
 
 # Projets Cybersécurité
+# 🔬 Projets Cybersécurité
 
-## 🔬 Projets Cybersécurité
+Cette section présente plusieurs laboratoires pratiques réalisés dans le cadre de ma formation en **cybersécurité et sécurité des infrastructures informatiques**.
 
-### 🛡️ SOC Lab – SIEM Splunk
-Déploiement d’une plateforme SIEM permettant la centralisation et l’analyse des logs.
-
-🔗 [Voir le projet](soc-lab.md)
+Chaque projet démontre la mise en œuvre de concepts de sécurité utilisés dans les environnements professionnels.
 
 ---
 
-### 🔎 Pentest Lab
-Analyse de vulnérabilités et tests d’intrusion sur un environnement de test.
+## 🛡️ SOC Lab – SIEM Splunk
 
-🔗 [Voir le projet](pentest-lab.md)
+Mise en place d’une plateforme **SIEM avec Splunk** permettant la centralisation et l’analyse des logs de sécurité.
 
----
+Ce laboratoire montre comment un SOC peut surveiller les événements de sécurité et détecter les activités suspectes.
 
-### 🌐 Network Security Lab
-Mise en place d’une infrastructure réseau sécurisée avec segmentation VLAN.
-
-🔗 [Voir le projet](network-security-lab.md)
+🔗 [Voir le projet](projects/soc-lab/readme.md)
 
 ---
 
-### 🚨 IDS / IPS Lab
-Déploiement d’un système de détection d’intrusion avec analyse du trafic réseau.
+## 🔍 IDS / IPS Lab – Snort
 
-🔗 [Voir le projet](ids-ips-lab.md)
+Déploiement d’un système **IDS / IPS avec Snort** afin de détecter les activités malveillantes sur le réseau.
+
+Des règles personnalisées ont été configurées pour identifier plusieurs types d’attaques comme les scans de ports, les requêtes HTTP suspectes ou les tentatives de connexion SSH.
+
+🔗 [Voir le projet](projects/snort-ids-ips-lab/readme.md)
 
 ---
 
-### 🖥️ GLPI Lab
-Implémentation d’une plateforme ITSM pour la gestion des incidents.
+## 🧪 Pentest Lab – Metasploit
 
-🔗 [Voir le projet](glpi-lab.md)
+Analyse de vulnérabilités et simulation d’attaques sur une machine vulnérable en utilisant **Kali Linux, Nmap et Metasploit**.
+
+Ce laboratoire permet de comprendre les techniques utilisées par les attaquants afin de mieux sécuriser les systèmes.
+
+🔗 [Voir le projet](projects/pentest-lab/readme.md)
+
+---
+
+## 🌐 Network Architecture Lab
+
+Conception d’une **architecture réseau d’entreprise multi-sites** avec segmentation VLAN, routage et sécurisation des communications.
+
+Ce projet démontre comment organiser et sécuriser l’infrastructure réseau d’une entreprise.
+
+🔗 [Voir le projet](projects/network-architecture-lab/readme.md)
+
+---
+
+## 🖥️ GLPI Lab – Gestion du support IT
+
+Mise en place de **GLPI** pour la gestion du parc informatique et des tickets d’incidents.
+
+Ce projet illustre le fonctionnement d’un service de support IT avec le suivi des équipements et des demandes utilisateurs.
+
+🔗 [Voir le projet](projects/glpi-lab/README.md)
+
+---
+
+## 🔐 Cryptography Lab
+
+Exploration des mécanismes de chiffrement avec **OpenSSL et PowerShell**, incluant le chiffrement symétrique et l’implémentation du chiffrement de César.
+
+🔗 [Voir le projet](projects/cryptography-lab/readme.md)
+
+---
+
+## 🛡️ Windows Security Lab – SAM & SID
+
+Analyse des mécanismes de sécurité Windows liés à la gestion des **SID (Security Identifiers)** et à la protection de la **base SAM** contenant les informations d’authentification des utilisateurs.
+
+🔗 [Voir le projet](projects/windows-security-lab/readme.md)
+
 
 
 ## 🔎 Compétences Clés
