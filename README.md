@@ -2,11 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Future+SOC+Analyst;Blue+Team+%7C+Threat+Detection;Network+Security+%7C+Incident+Response;Always+Learning+Cybersecurity" />
 </p>
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Future+SOC+Analyst;Blue+Team+%7C+Threat+Detection;Network+Security+%7C+Incident+Response;Always+Learning+Cybersecurity" />
-</p>
-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0dd5366b-269c-4dcc-bcb3-7e36b6c9cf1c" width="180"/>
 </p>
@@ -22,16 +17,7 @@
 🚀 Alternance recherchée en cybersécurité (SOC / Blue Team / Pentest) à partir de septembre 2026
 </p>
 
-# 👋 Bonjour, je suis Imelda Magué
-
-🛡️ Administratrice Réseaux & Sécurité | Future Analyste SOC | Passionnée par la Cybersécurité
-
-![WhatsApp Image 2026-01-22 at 19 32 49](https://github.com/user-attachments/assets/0dd5366b-269c-4dcc-bcb3-7e36b6c9cf1c)
-
-
-# 👋 Bonjour, je suis Imelda Magué
-
-🛡️ Administratrice Réseaux & Sécurité | Future Analyste SOC | Passionnée par la Cybersécurité
+<p align="center">
 
 ![SOC](https://img.shields.io/badge/SOC-Intermédiaire-blue)
 ![Incident Response](https://img.shields.io/badge/Réponse_aux_Incidents-Intermédiaire-green)
@@ -39,17 +25,20 @@
 ![Pentesting](https://img.shields.io/badge/Tests_d'Intrusion-Intermédiaire-orange)
 ![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Intermédiaire-lightgrey)
 
----
+</p>
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imelda-magu%C3%A9-a769ab271)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeldamague96@gmail.com)
 
+</p>
+
+---
+
 🎓 Étudiante en **Master Cybersécurité & Réseaux – Ingetis Paris**
 
-🚀 Alternance recherchée à partir de **septembre 2026 en cybersécurité**
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=30&center=true&vCenter=true&width=900&lines=Imelda+Magué;Cybersecurity+Student;SOC+Analyst+in+Training;Looking+for+a+Cybersecurity+Apprenticeship+in+France" />
----
----
+🔎 Intéressée par les domaines **SOC, Threat Detection, Analyse de logs et Réponse aux incidents**
 ## 🚀 À propos de moi
 
 🎓 Étudiante en **Master Cybersécurité & Réseaux**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
