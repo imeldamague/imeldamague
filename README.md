@@ -148,21 +148,28 @@ Compétences :
 - Sécurisation des communications
 - Confidentialité et intégrité des données
 
-# Certifications
 
-ANSSI – SecNum Académie (en cours)
+# 📜 Certifications
 
-Fortinet Certified Associate Cybersecurity (en cours)
-Fortinet NSE 1 (en cours)
-Fortinet NSE 2 (en cours)
+## 🛡️ Cybersécurité
 
-Cisco Junior Cybersecurity Analyst (en cours)
-Cisco Ethical Hacker (en cours)
+- ANSSI – SecNum Académie 
+- Fortinet Certified Associate Cybersecurity *(en cours)*
+- Fortinet NSE 1 
 
-Cisco CCNA (en cours)
 
-ISO 27001 Foundation (en cours)
+## 🌐 Réseaux
 
+- Cisco CCNA *(en cours)*
+
+## 🔐 Analyse & Défense
+
+- Cisco Junior Cybersecurity Analyst *(en cours)*
+- Cisco Ethical Hacker *(en cours)*
+
+## 📋 Gouvernance & Conformité
+
+- ISO 27001 Foundation 
 ---
 
 # 💼 Points forts de l’expérience professionnelle
@@ -349,15 +356,32 @@ Analyse des mécanismes de sécurité Windows, notamment :
 
 ---
 
-## 💡 Domaines de Focus Actuels
+# ⭐ Atouts
 
-### 🎯 Objectifs 2026
+🔹 Rigueur et sens de l’organisation  
+🔹 Capacité d’analyse et résolution de problèmes  
+🔹 Esprit d’apprentissage continu  
+🔹 Adaptabilité aux environnements techniques  
+🔹 Travail en équipe et communication
 
-- 🔍 Décrocher une alternance en cybersécurité (SOC / Blue Team)
-- 📚 Poursuivre le Master Cybersécurité & Réseaux
-- 🏆 Obtenir des certifications cybersécurité (Fortinet, ANSSI, Cisco)
-- 🚀 Développer des projets cybersécurité sur GitHub
-- ⭐ Renforcer mes compétences en analyse des menaces et sécurité réseau
+# 🌍 Langues
+
+🇫🇷 Français : Langue maternelle  
+🇬🇧 Anglais : Niveau B1 – Professionnel (lecture technique et documentation)
+
+
+# 🎯 Objectifs
+
+🔍 Décrocher une alternance en cybersécurité afin de développer mes compétences en sécurité opérationnelle, surveillance SOC et détection des menaces.
+
+🎓 Réussir mon Master Cybersécurité et Réseaux à INGETIS Paris.
+
+📜 Obtenir des certifications reconnues en cybersécurité afin de renforcer mon expertise en sécurité des systèmes et des réseaux.
+
+🛡️ Approfondir mes compétences en sécurité des infrastructures, analyse d'incidents et détection des attaques.
+
+🚀 Contribuer à des projets de cybersécurité et développer une expertise dans la protection des systèmes d’information.
+
 
 
 ## 📊 Statistiques GitHub
