@@ -208,7 +208,7 @@ Mise en place d’une plateforme **SIEM avec Splunk** permettant la centralisati
 
 Ce laboratoire montre comment un SOC peut surveiller les événements de sécurité et détecter les activités suspectes.
 
-🔗 [Voir le projet](projects/soc-lab/readme.md)
+🔗 [Voir le projet](projects/soc-lab/README.md)
 
 ---
 
@@ -218,7 +218,7 @@ Déploiement d’un système **IDS / IPS avec Snort** afin de détecter les acti
 
 Des règles personnalisées ont été configurées pour identifier plusieurs types d’attaques comme les scans de ports, les requêtes HTTP suspectes ou les tentatives de connexion SSH.
 
-🔗 [Voir le projet](projects/snort-ids-ips-lab/readme.md)
+🔗 [Voir le projet](projects/snort-ids-ips-lab/README.md)
 
 ---
 
@@ -228,7 +228,7 @@ Analyse de vulnérabilités et simulation d’attaques sur une machine vulnérab
 
 Ce laboratoire permet de comprendre les techniques utilisées par les attaquants afin de mieux sécuriser les systèmes.
 
-🔗 [Voir le projet](projects/pentest-lab/readme.md)
+🔗 [Voir le projet](projects/pentest-lab/README.md)
 
 ---
 
@@ -238,7 +238,7 @@ Conception d’une **architecture réseau d’entreprise multi-sites** avec segm
 
 Ce projet démontre comment organiser et sécuriser l’infrastructure réseau d’une entreprise.
 
-🔗 [Voir le projet](projects/network-architecture-lab/readme.md)
+🔗 [Voir le projet](projects/network-architecture-lab/README.md)
 
 ---
 
@@ -256,7 +256,7 @@ Ce projet illustre le fonctionnement d’un service de support IT avec le suivi 
 
 Exploration des mécanismes de chiffrement avec **OpenSSL et PowerShell**, incluant le chiffrement symétrique et l’implémentation du chiffrement de César.
 
-🔗 [Voir le projet](projects/cryptography-lab/readme.md)
+🔗 [Voir le projet](projects/cryptography-lab/README.md)
 
 ---
 
@@ -264,7 +264,7 @@ Exploration des mécanismes de chiffrement avec **OpenSSL et PowerShell**, inclu
 
 Analyse des mécanismes de sécurité Windows liés à la gestion des **SID (Security Identifiers)** et à la protection de la **base SAM** contenant les informations d’authentification des utilisateurs.
 
-🔗 [Voir le projet](projects/windows-security-lab/readme.md)
+🔗 [Voir le projet](projects/windows-security-lab/README.md)
 
 
 
