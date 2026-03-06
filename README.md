@@ -218,7 +218,7 @@ Déploiement d’un système **IDS / IPS avec Snort** afin de détecter les acti
 
 Des règles personnalisées ont été configurées pour identifier plusieurs types d’attaques comme les scans de ports, les requêtes HTTP suspectes ou les tentatives de connexion SSH.
 
-🔗 [Voir le projet](projects/snort-ids-ips-lab/README.md)
+🔗 [Voir le projet](./projects/snort-ids-ips-lab/README.md)
 
 ---
 
