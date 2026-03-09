@@ -199,22 +199,22 @@ Compétences :
 
 ---
 
-## 🛡️ TSG Cameroun — Analyste Cybersécurité (4 mois)
+## 🛡️ TSG Cameroun — Apprentie Analyste Cybersécurité (4 mois)
 
-🔹 Déploiement et configuration d’un **SIEM Splunk** pour centraliser et analyser les logs de sécurité.  
-🔹 Analyse d’alertes de sécurité et **investigation d’incidents**.  
-🔹 Réalisation d’analyses de **vulnérabilités** et recommandations de sécurité.  
-🔹 Supervision des systèmes et du réseau avec **Zabbix**.  
-🔹 Sensibilisation des utilisateurs aux **bonnes pratiques de cybersécurité**.
+🔹 Administration et surveillance des infrastructures Microsoft : Azure AD, Intune
+🔹 Gestion et supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS)
+🔹 Automatisation des tâches avec PowerShell et Python
+🔹 Gestion des tickets ITSM (incidents, demandes, changements)
 
 ---
 
-## 🌐 TSA Consulting Cameroun — Administratrice Système & Réseau (Stage – 4 mois)
+## 🌐 TSA Consulting Cameroun — Apprentie Administratrice Systèmes & Réseaux (Stage – 4 mois)
 
-🔹 Configuration d’infrastructures réseau (**VLAN, Wi-Fi**).  
-🔹 Déploiement et administration de la solution **GLPI** pour la gestion du parc informatique et des tickets.  
-🔹 Mise en place de la **virtualisation avec VMware**.  
-🔹 Rédaction de **documentation technique** et procédures IT.
+🔹 Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN)
+🔹 Déploiement et administration de la solution GLPI pour la gestion du parc informatique et des tickets
+🔹 Mise en place de la virtualisation avec VMware
+🔹 Rédaction de documentation technique et procédures IT
+🔹 Analyse des vulnérabilités et application des correctifs de sécurité
 
 ---
 
