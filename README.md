@@ -210,11 +210,11 @@ Compétences :
 
 ## 🌐 TSA Consulting Cameroun — Apprentie Administratrice Systèmes & Réseaux (Stage – 4 mois)
 
-🔹 Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN)
-🔹 Déploiement et administration de la solution GLPI pour la gestion du parc informatique et des tickets
-🔹 Mise en place de la virtualisation avec VMware
-🔹 Rédaction de documentation technique et procédures IT
-🔹 Analyse des vulnérabilités et application des correctifs de sécurité
+🔹 Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN).
+🔹 Déploiement et administration de la solution GLPI pour la gestion du parc informatique et des tickets.
+🔹 Mise en place de la virtualisation avec VMware.
+🔹 Rédaction de documentation technique et procédures IT.
+🔹 Analyse des vulnérabilités et application des correctifs de sécurité.
 
 ---
 
