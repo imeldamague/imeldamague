@@ -198,25 +198,24 @@ Compétences :
 # 💼 Points forts de l’expérience professionnelle
 
 ---
+### 🔰 TSG Cameroun — Apprentie Analyste Cybersécurité (4 mois)
 
-## 🛡️ TSG Cameroun — Apprentie Analyste Cybersécurité (4 mois)
+◆ Administration et surveillance des infrastructures Microsoft : Azure AD, Intune  
+◆ Gestion et supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS)  
+◆ Automatisation des tâches avec PowerShell et Python  
+◆ Gestion des tickets ITSM (incidents, demandes, changements)
 
-🔹 Administration et surveillance des infrastructures Microsoft : Azure AD, Intune
-🔹 Gestion et supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS)
-🔹 Automatisation des tâches avec PowerShell et Python
-🔹 Gestion des tickets ITSM (incidents, demandes, changements)
+---
+
+### 🌐 TSA Consulting Cameroun — Apprentie Administratrice Systèmes & Réseaux (4 mois)
+
+◆ Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN)  
+◆ Déploiement et administration de la solution GLPI  
+◆ Mise en place de la virtualisation avec VMware  
+◆ Analyse des vulnérabilités et correctifs de sécurité
 
 ---
 
-## 🌐 TSA Consulting Cameroun — Apprentie Administratrice Systèmes & Réseaux (Stage – 4 mois)
-
-🔹 Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN).
-🔹 Déploiement et administration de la solution GLPI pour la gestion du parc informatique et des tickets.
-🔹 Mise en place de la virtualisation avec VMware.
-🔹 Rédaction de documentation technique et procédures IT.
-🔹 Analyse des vulnérabilités et application des correctifs de sécurité.
-
----
 
 ## 🖥️ FIDIT Conseil Cameroun — Assistante Support & Réseaux (Stage – 6 mois)
 
