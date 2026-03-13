@@ -222,6 +222,7 @@ Compétences :
 ◆ Maintenance des postes de travail et diagnostic des pannes  
 ◆ Gestion des comptes Active Directory  
 ◆ Application des bonnes pratiques de sécurité informatique
+
 ---
 
 # Projets Cybersécurité
