@@ -216,14 +216,12 @@ Compétences :
 
 ---
 
+### 💻 FIDIT Conseil Cameroun — Assistante Support & Réseaux (6 mois)
 
-## 🖥️ FIDIT Conseil Cameroun — Assistante Support & Réseaux (Stage – 6 mois)
-
-🔹 Support technique utilisateurs et **résolution d’incidents**.  
-🔹 Maintenance des postes de travail et diagnostic des pannes.  
-🔹 Gestion des comptes **Active Directory**.  
-🔹 Application des **bonnes pratiques de sécurité informatique**.
-
+◆ Support technique utilisateurs et résolution d’incidents  
+◆ Maintenance des postes de travail et diagnostic des pannes  
+◆ Gestion des comptes Active Directory  
+◆ Application des bonnes pratiques de sécurité informatique
 ---
 
 # Projets Cybersécurité
