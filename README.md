@@ -198,7 +198,7 @@ Compétences :
 # 💼 Points forts de l’expérience professionnelle
 
 ---
-### 🔰 TSG Cameroun — Apprentie Analyste Cybersécurité (4 mois)
+### 🔰 TSG Cameroun — Apprentie Analyste Cybersécurité ( 14 mois)
 
 ◆ Administration et surveillance des infrastructures Microsoft : Azure AD, Intune  
 ◆ Gestion et supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS)  
@@ -207,7 +207,7 @@ Compétences :
 
 ---
 
-### 🌐 TSA Consulting Cameroun — Apprentie Administratrice Systèmes & Réseaux (4 mois)
+### 🌐 TSA Consulting Cameroun — stagiaire Administratrice Systèmes & Réseaux (4 mois)
 
 ◆ Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN)  
 ◆ Déploiement et administration de la solution GLPI  
