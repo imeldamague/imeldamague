@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/🚀_RECHERCHE_ALTERNANCE-Septembre_2026-FF4500?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;SOC+%7C+Pentest+%7C+Blue+Team;Cloud+Security+%7C+Azure+%7C+DevOps;Infrastructure+%26+Systems+Admin;Always+Learning+Always+Building" />
 </p>
 <p align="center">
@@ -48,7 +52,7 @@
 
 **Domaines de spécialisation :**
 
-- 🛡️ **Opérations SOC / Blue Team** – SIEM, analyse de logs, détection d'incidents
+- 🛡️ **Opérations SOC / Blue Team**– SIEM, analyse de logs, détection d'incidents
 - 🔎 **Pentest & analyse de vulnérabilités** – Kali Linux, Nmap, Metasploit, EternalBlue
 - 🌐 **Sécurité réseau & systèmes** – VLAN, VPN, IDS/IPS, Active Directory, LAPS, PKI
 - ☁️ **Cloud & DevOps sécurisé** – Azure Hub & Spoke, Kubernetes, Helm, GitHub Actions
