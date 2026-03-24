@@ -186,12 +186,16 @@ Compétences :
 - Protection des données personnelles **RGPD / GDPR**
 
 ---
-
 ### 🔑 Cryptographie
-- Principes de chiffrement
-- Sécurisation des communications
-- Confidentialité et intégrité des données
 
+![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnu&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+
+- Chiffrement **asymétrique** avec GnuPG — génération de clés, chiffrement et déchiffrement de fichiers
+- **Signatures numériques** — authentification et vérification d'intégrité des données
+- Chiffrement **symétrique** avec OpenSSL — algorithmes AES, gestion des clés
+- Sécurisation des communications et confidentialité des échanges
+- Principes fondamentaux : confidentialité, intégrité, non-répudiation
 
 # 📜 Certifications
 
@@ -320,7 +324,7 @@ Le projet comprend :
 - Plan de traitement des risques avec analyse coûts/bénéfices — ROI 7:1 sur 2 ans
 - Conformité **ISO 27001**, **ISO 27005**, **RGPD**
 
-🔗 [Voir le projet]()
+🔗 [Voir le projet](projects%20/Analyse-et-Gestion-des-Risques-SI)
 
 ---
 
@@ -368,37 +372,21 @@ Analyse des mécanismes de sécurité Windows, notamment :
 ⭐ Ces laboratoires ont été réalisés dans un environnement de **machines virtuelles et de simulation d’attaques** afin de développer des compétences pratiques en **cybersécurité offensive et défensive**.
 ## 🔎 Compétences Clés
 
-<details>
-<summary>🛡️ Spécialisations Cybersécurité</summary>
+### 🛡️ Spécialisations Cybersécurité
 
-- 🔐 Opérations SOC / CSIRT  
-- 🔎 Évaluation des vulnérabilités  
-- 🔍 Tests de pénétration (Pentesting)  
-- 🌐 Sécurité Réseau  
-- ☁️ Sécurité Cloud  
-- 🔒 Cryptographie  
-- 📊 Gestion des risques  
-- 🚨 Réponse aux incidents  
-- 📋 Conformité (ISO 27001, RGPD)  
-- 🖥️ Administration systèmes  
-- 🌍 Threat Intelligence  
-- 📈 Surveillance sécuritaire  
+| 🔐 SOC / CSIRT | 🔎 Analyse de vulnérabilités | 🔍 Pentesting | 🌐 Sécurité Réseau |
+|---|---|---|---|
+| ☁️ Sécurité Cloud | 🔒 Cryptographie | 📊 Gestion des risques | 🚨 Réponse aux incidents |
+| 📋 ISO 27001 / RGPD | 🌍 Threat Intelligence | 📈 SIEM / Surveillance | 🛡️ EBIOS RM / MEHARI |
 
-</details>
+---
 
-<details>
-<summary>🚀 Compétences Techniques</summary>
+### 🚀 Compétences Techniques
 
-- 🐍 Développement Python  
-- 🔧 Administration systèmes  
-- 🌐 Configuration réseau  
-- 🗄️ Gestion de bases de données  
-- 📊 Analyse de données (Power BI, Excel)  
-- 🛠️ Sécurité d’infrastructure  
-- 📡 Technologies Cloud  
-- 🔄 Gestion de projet (Méthode Agile)  
-
-</details>
+| 🐍 Python / PowerShell | 🔧 Administration systèmes | 🌐 Configuration réseau | 🗄️ Bases de données |
+|---|---|---|---|
+| ☁️ Azure / Cloud | 🛠️ Sécurité infrastructure | ⚙️ Kubernetes / Helm | 🔁 CI/CD GitHub Actions |
+| 🖥️ VMware / Proxmox | 📊 Power BI | 🔄 Agile / Scrum | 📡 Virtualisation |
 
 
 ---
