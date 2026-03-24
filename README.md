@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&lines=🚀+RECHERCHE+ALTERNANCE;SEPTEMBRE+2026;Cybersécurité+%7C+Réseaux+%7C+Cloud+%7C+Pentest" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&lines=🚀+RECHERCHE+ALTERNANCE;SEPTEMBRE+2026/>
 </p>
 
 <p align="center">
