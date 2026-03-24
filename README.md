@@ -1,22 +1,17 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Future+SOC+Analyst;Blue+Team+%7C+Threat+Detection;Network+Security+%7C+Incident+Response;Always+Learning+Cybersecurity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;SOC+%7C+Pentest+%7C+Blue+Team;Cloud+Security+%7C+Azure+%7C+DevOps;Infrastructure+%26+Systems+Admin;Always+Learning+Always+Building" />
 </p>
-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6bdd8192-08ef-4e53-aab6-80b14161f302" width="180"/>
 </p>
-
 <h1 align="center">👋 Bonjour, je suis Imelda Magué</h1>
-
 <p align="center">
-🛡️ Administratrice Réseaux & Sécurité | Future Analyste SOC<br>
-🔐 Passionnée par la cybersécurité et la protection des infrastructures numériques
+🛡️ Cybersécurité | Réseaux & Systèmes | Cloud & DevOps<br>
+🔐 Passionnée par la protection des infrastructures et la détection des menaces
 </p>
-
 <p align="center">
-🚀 Alternance recherchée en cybersécurité (SOC / Blue Team / Pentest) à partir de septembre 2026
+🚀 Alternance recherchée en cybersécurité à partir de septembre 2026 (SOC / Admin Sys / Pentest / Cloud Security)
 </p>
-
 <p align="center">
 
 ![SOC](https://img.shields.io/badge/SOC-Intermédiaire-blue)
