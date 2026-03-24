@@ -103,6 +103,21 @@ Compétences :
 
 ---
 
+### ⚙️ DevOps & Infrastructure as Code
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+- Pipeline CI/CD avec GitHub Actions et self-hosted runners
+- Orchestration de conteneurs avec **Kubernetes** (déploiements, services, ConfigMaps, scaling, rolling updates)
+- Gestion de packages Kubernetes avec **Helm**
+- Architecture cloud **Hub & Spoke** sur Azure (VNet Peering, Bastion)
+
+---
+
 ### 🛡️ Détection & Défense
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3E42?style=for-the-badge)
@@ -159,10 +174,16 @@ Compétences :
 ---
 
 ### 🔐 Gouvernance, Risques & Conformité
-- ISO 27001
-- RGPD / GDPR
-- Gestion des risques
-- Bonnes pratiques de sécurité
+
+![ISO 27001](https://img.shields.io/badge/ISO_27001-005571?style=for-the-badge&logoColor=white)
+![EBIOS RM](https://img.shields.io/badge/EBIOS_RM-D32F2F?style=for-the-badge&logoColor=white)
+![RGPD](https://img.shields.io/badge/RGPD/GDPR-1565C0?style=for-the-badge&logoColor=white)
+
+- Analyse de risques avec **EBIOS RM** et **MEHARI** — appliquée sur un cas réel (SO-EMBALLAGE)
+- Identification des scénarios de menaces et cotation des risques
+- Gestion des risques et plan de traitement
+- Conformité **ISO 27001** et bonnes pratiques de sécurité
+- Protection des données personnelles **RGPD / GDPR**
 
 ---
 
@@ -198,7 +219,7 @@ Compétences :
 # 💼 Points forts de l’expérience professionnelle
 
 ---
-### 🔰 TSG Cameroun — Apprentie Analyste Cybersécurité ( 14 mois)
+### 🔰 TSG Cameroun — Apprentie Analyste Cybersécurité ( 12 mois)
 
 ◆ Administration et surveillance des infrastructures Microsoft : Azure AD, Intune  
 ◆ Gestion et supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS)  
@@ -207,7 +228,7 @@ Compétences :
 
 ---
 
-### 🌐 TSA Consulting Cameroun — stagiaire Administratrice Systèmes & Réseaux (4 mois)
+### 🌐 TSA Consulting Cameroun — stagiaire Administratrice Systèmes & Réseaux (3 mois)
 
 ◆ Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN)  
 ◆ Déploiement et administration de la solution GLPI  
@@ -285,6 +306,20 @@ Conception et analyse d’une **architecture réseau sécurisée** incluant :
 Ce projet illustre les bases de la **conception réseau en entreprise**.
 
 🔗 [Voir le projet](projects%20/network-architecture-lab)
+
+---
+
+### 🔐 Gouvernance, Risques & Conformité
+
+![ISO 27001](https://img.shields.io/badge/ISO_27001-005571?style=for-the-badge&logoColor=white)
+![EBIOS RM](https://img.shields.io/badge/EBIOS_RM-D32F2F?style=for-the-badge&logoColor=white)
+![RGPD](https://img.shields.io/badge/RGPD/GDPR-1565C0?style=for-the-badge&logoColor=white)
+
+- Analyse de risques avec **EBIOS RM** et **MEHARI** — appliquée sur un cas réel (SO-EMBALLAGE)
+- Identification des scénarios de menaces et cotation des risques
+- Gestion des risques et plan de traitement
+- Conformité **ISO 27001** et bonnes pratiques de sécurité
+- Protection des données personnelles **RGPD / GDPR**
 
 ---
 
