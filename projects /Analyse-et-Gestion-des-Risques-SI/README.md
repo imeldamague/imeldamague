@@ -63,7 +63,7 @@ Ce projet suit les **5 ateliers complets** :
 
 Le rapport détaillé est disponible ici :
 **GROUPE_8_Analyse_Risques_SO_EMBALLAGE.pdf**
-[GROUPE 8 Analyse Risques SO EMBALLAGE (1).pdf](https://github.com/user-attachments/files/26216472/GROUPE.8.Analyse.Risques.SO.EMBALLAGE.1.pdf)
+(https://github.com/user-attachments/files/26216472/GROUPE.8.Analyse.Risques.SO.EMBALLAGE.1.pdf)
 
 ---
 
