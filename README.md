@@ -15,13 +15,13 @@
 <p align="center">
 
 ![SOC](https://img.shields.io/badge/SOC-Intermédiaire-blue)
-![Incident Response](https://img.shields.io/badge/Réponse_aux_Incidents-Intermédiaire-green)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-Intermédiaire-purple)
-![Pentesting](https://img.shields.io/badge/Tests_d'Intrusion-Intermédiaire-orange)
+![Pentest](https://img.shields.io/badge/Pentesting-Intermédiaire-red)
 ![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Intermédiaire-lightgrey)
+![DevOps](https://img.shields.io/badge/DevOps-Intermédiaire-orange)
+![Admin Sys](https://img.shields.io/badge/Admin_Systèmes-Intermédiaire-green)
+![GRC](https://img.shields.io/badge/GRC_ISO27001-Intermédiaire-purple)
 
 </p>
-
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imelda-magu%C3%A9-a769ab271)
@@ -31,9 +31,8 @@
 
 ---
 
-🎓 Étudiante en **Master Cybersécurité & Réseaux – Ingetis Paris**
-
-🔎 Intéressée par les domaines **SOC, Threat Detection, Analyse de logs et Réponse aux incidents**
+🎓 Étudiante en **Master Cybersécurité & Réseaux – Ingetis Paris** | Intègre **CESI École d'Ingénieurs** en octobre 2026  
+🔎 Spécialisée en **Cybersécurité, Administration Systèmes & Réseaux, Cloud Security et DevOps**
 
 ---
 
@@ -41,21 +40,20 @@
 
 🎓 Étudiante en **Master Cybersécurité & Réseaux**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
 
-🛡️ Je développe des compétences en **cybersécurité opérationnelle**, notamment dans la surveillance des systèmes, l’analyse des incidents de sécurité, l’évaluation des vulnérabilités et la sécurisation des infrastructures réseaux et systèmes.
+🛡️ Je développe des compétences transverses couvrant la **cybersécurité opérationnelle**, l'**administration systèmes et réseaux**, la **sécurité cloud** et le **DevOps sécurisé** — avec une approche à la fois offensive (pentest) et défensive (SOC, Blue Team).
 
-🔍 À travers mes projets techniques et mes expériences, je travaille sur des environnements impliquant **SIEM, analyse de logs, sécurité réseau, administration systèmes, cryptographie et tests d’intrusion**.
+🔍 À travers mes projets techniques, je travaille sur des environnements impliquant **SIEM, Kubernetes, GitHub Actions, Azure, Active Directory, EBIOS RM, tests d'intrusion et analyse de logs**.
 
-🔐 **Actuellement à la recherche d'une alternance en cybersécurité à partir de septembre 2026** (SOC, sécurité opérationnelle, administration sécurité) afin de mettre en pratique mes compétences et contribuer à la protection des systèmes d'information.
+🔐 **Recherche une alternance en cybersécurité à partir d'octobre 2026** — SOC / Admin Sys & Réseaux / Cloud Security / Pentest.
 
- **Domaines de spécialisation :**
+**Domaines de spécialisation :**
 
-- 🛡️ **Opérations SOC / Analyse de sécurité** – surveillance des événements, analyse de logs et détection d'incidents  
-- 🔎 **Analyse de vulnérabilités & Pentesting** – utilisation de Kali Linux, Nmap et Metasploit  
-- 🌐 **Sécurité réseau & systèmes** – configuration VLAN, VPN, IDS/IPS et sécurisation des infrastructures  
-- ☁️ **Sécurité Cloud & Microsoft** – Azure, Active Directory, Intune  
-- 🔐 **Cryptographie & protection des données** – principes de chiffrement et sécurisation des communications  
-- 📊 **Gestion des risques & conformité** – bonnes pratiques de sécurité, ISO 27001 et RGPD
-
+- 🛡️ **Opérations SOC / Blue Team** – SIEM, analyse de logs, détection d'incidents
+- 🔎 **Pentest & analyse de vulnérabilités** – Kali Linux, Nmap, Metasploit, EternalBlue
+- 🌐 **Sécurité réseau & systèmes** – VLAN, VPN, IDS/IPS, Active Directory, LAPS, PKI
+- ☁️ **Cloud & DevOps sécurisé** – Azure Hub & Spoke, Kubernetes, Helm, GitHub Actions
+- 🔐 **Cryptographie** – GnuPG, OpenSSL, chiffrement asymétrique et symétrique
+- 📊 **GRC & conformité** – EBIOS RM, MEHARI, ISO 27001, RGPD
 
 ## 🛠️ Compétences Techniques & Expertise
 
