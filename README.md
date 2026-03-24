@@ -1,4 +1,5 @@
 <h2 align="center">🚀 RECHERCHE ALTERNANCE — SEPTEMBRE 2026</h2>
+<p align="center">🗓️ Rythme : 3 semaines en entreprise / 1 semaine de cours</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;SOC+%7C+Pentest+%7C+Blue+Team;Cloud+Security+%7C+Azure+%7C+DevOps;Infrastructure+%26+Systems+Admin;Always+Learning+Always+Building" />
@@ -46,7 +47,7 @@
 
 🔍 À travers mes projets techniques, je travaille sur des environnements impliquant **SIEM, Kubernetes, GitHub Actions, Azure, Active Directory, EBIOS RM, tests d'intrusion et analyse de logs**.
 
-🔐 **Recherche une alternance en cybersécurité à partir d'octobre 2026** — SOC / Admin Sys & Réseaux / Cloud Security / Pentest.
+🔐 **Recherche une alternance en cybersécurité à partir de septembre 2026** — SOC / Admin Sys & Réseaux / Cloud Security / Pentest.
 
 **Domaines de spécialisation :**
 
