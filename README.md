@@ -210,10 +210,6 @@ Compétences :
 
 - Cisco Junior Cybersecurity Analyst *(en cours)*
 - Cisco Ethical Hacker *(en cours)*
-
-## 📋 Gouvernance & Conformité
-
-- ISO 27001 Foundation 
 ---
 
 # 💼 Points forts de l’expérience professionnelle
@@ -308,18 +304,23 @@ Ce projet illustre les bases de la **conception réseau en entreprise**.
 🔗 [Voir le projet](projects%20/network-architecture-lab)
 
 ---
+### 📋 Analyse de risques SI – SO-EMBALLAGE (MEHARI & EBIOS RM)
 
-### 🔐 Gouvernance, Risques & Conformité
+Analyse et gestion des risques d'un système d'information réel appliquée à **SO-EMBALLAGE**,
+entreprise de distribution B2B (33,8M€ de CA, 185 salariés).
 
-![ISO 27001](https://img.shields.io/badge/ISO_27001-005571?style=for-the-badge&logoColor=white)
-![EBIOS RM](https://img.shields.io/badge/EBIOS_RM-D32F2F?style=for-the-badge&logoColor=white)
-![RGPD](https://img.shields.io/badge/RGPD/GDPR-1565C0?style=for-the-badge&logoColor=white)
+Le projet comprend :
 
-- Analyse de risques avec **EBIOS RM** et **MEHARI** — appliquée sur un cas réel (SO-EMBALLAGE)
-- Identification des scénarios de menaces et cotation des risques
-- Gestion des risques et plan de traitement
-- Conformité **ISO 27001** et bonnes pratiques de sécurité
-- Protection des données personnelles **RGPD / GDPR**
+- **Méthode MEHARI** — audit de maturité sécurité (1,2/4), identification de 20 scénarios de risques,
+  tableau détaillé avec cotation potentialité/impact
+- **EBIOS Risk Manager** — 5 ateliers complets : cadrage, sources de risques, scénarios stratégiques
+  (ransomware, vol de données web, espionnage supply chain), scénarios opérationnels détaillés
+- Modélisation d'un scénario ransomware LockBit en 10 phases techniques (Cobalt Strike, PrintNightmare,
+  Pass-the-Hash, mouvement latéral)
+- Plan de traitement des risques avec analyse coûts/bénéfices — ROI 7:1 sur 2 ans
+- Conformité **ISO 27001**, **ISO 27005**, **RGPD**
+
+🔗 [Voir le projet]()
 
 ---
 
