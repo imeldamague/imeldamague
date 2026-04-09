@@ -52,12 +52,12 @@
 
 **Domaines de spécialisation :**
 
-- 🛡️ **Opérations SOC / Blue Team**– SIEM, analyse de logs, détection d'incidents
-- 🔎 **Pentest & analyse de vulnérabilités** – Kali Linux, Nmap, Metasploit, EternalBlue
-- 🌐 **Sécurité réseau & systèmes** – VLAN, VPN, IDS/IPS, Active Directory, LAPS, PKI
-- ☁️ **Cloud & DevOps sécurisé** – Azure Hub & Spoke, Kubernetes, Helm, GitHub Actions
-- 🔐 **Cryptographie** – GnuPG, OpenSSL, chiffrement asymétrique et symétrique
-- 📊 **GRC & conformité** – EBIOS RM, MEHARI, ISO 27001, RGPD
+-  **Opérations SOC / Blue Team**– SIEM, analyse de logs, détection d'incidents
+-  **Pentest & analyse de vulnérabilités** – Kali Linux, Nmap, Metasploit, EternalBlue
+-  **Sécurité réseau & systèmes** – VLAN, VPN, IDS/IPS, Active Directory, LAPS, PKI
+-  **Cloud & DevOps sécurisé** – Azure Hub & Spoke, Kubernetes, Helm, GitHub Actions
+-  **Cryptographie** – GnuPG, OpenSSL, chiffrement asymétrique et symétrique
+-  **GRC & conformité** – EBIOS RM, MEHARI, ISO 27001, RGPD
 
 ## 🛠️ Compétences Techniques & Expertise
 
