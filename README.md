@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6bdd8192-08ef-4e53-aab6-80b14161f302" width="180"/>
 </p>
-<h1 align="center">👋 Bonjour, je suis Imelda Magué</h1>
+<h1 align="center"> Bonjour, je suis Imelda Magué</h1>
 <p align="center">
 🛡️ Cybersécurité | Réseaux & Systèmes | Cloud & DevOps<br>
 🔐 Passionnée par la protection des infrastructures et la détection des menaces
@@ -42,13 +42,13 @@
 
 ## 🚀 À propos de moi
 
-🎓 Étudiante en **Master Cybersécurité & Réseaux**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
+Étudiante en **Master Cybersécurité & Réseaux**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
 
-🛡️ Je développe des compétences transverses couvrant la **cybersécurité opérationnelle**, l'**administration systèmes et réseaux**, la **sécurité cloud** et le **DevOps sécurisé** — avec une approche à la fois offensive (pentest) et défensive (SOC, Blue Team).
+ Je développe des compétences transverses couvrant la **cybersécurité opérationnelle**, l'**administration systèmes et réseaux**, la **sécurité cloud** et le **DevOps sécurisé** — avec une approche à la fois offensive (pentest) et défensive (SOC, Blue Team).
 
-🔍 À travers mes projets techniques, je travaille sur des environnements impliquant **SIEM, Kubernetes, GitHub Actions, Azure, Active Directory, EBIOS RM, tests d'intrusion et analyse de logs**.
+ À travers mes projets techniques, je travaille sur des environnements impliquant **SIEM, Kubernetes, GitHub Actions, Azure, Active Directory, EBIOS RM, tests d'intrusion et analyse de logs**.
 
-🔐 **Recherche une alternance en cybersécurité à partir de septembre 2026** — SOC / Admin Sys & Réseaux / Cloud Security / Pentest.
+ **Recherche une alternance en cybersécurité à partir de septembre 2026** — SOC / Admin Sys & Réseaux / Cloud Security / Pentest.
 
 **Domaines de spécialisation :**
 
