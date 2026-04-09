@@ -37,11 +37,6 @@
 
 ---
 
-🎓 Étudiante en **Master Cybersécurité & Réseaux – Ingetis Paris** | Intègre **CESI École d'Ingénieurs** en octobre 2026  
-🔎 Spécialisée en **Cybersécurité, Administration Systèmes & Réseaux, Cloud Security et DevOps**
-
----
-
 ## 🚀 À propos de moi
 
 Étudiante en **Master Cybersécurité & Réseaux (Ingetis Paris)**, je rejoins **CESI École d'Ingénieurs** en octobre 2026.
@@ -50,12 +45,11 @@ Disponible en alternance dès **septembre 2026** — 3 semaines entreprise / 1 s
 Profil hybride **offensif & défensif** : je pentest le matin et j'analyse les logs le soir.
 14 mois d'expérience pro sur des environnements Azure, Cisco, Splunk, Active Directory et Kubernetes.
 
-| 🔴 Offensif | 🔵 Défensif | ☁️ Cloud & Infra | 📋 GRC |
-|---|---|---|---|
-| Pentest · Metasploit · Nmap | SOC · SIEM · Splunk · Snort | Azure · Kubernetes · Helm · CI/CD | EBIOS RM · MEHARI · ISO 27001 · RGPD |
-| EternalBlue · Pass-the-Hash | IDS/IPS · Analyse de logs | Hub & Spoke · VPN · VLAN | Analyse de risques · PKI |
-| Kali Linux · Burp Suite | Blue Team · Réponse incidents | GitHub Actions · Docker | Conformité · RGPD |
-
+| 🔴 Offensif | 🔵 Défensif | 🌐 Réseaux & Systèmes | ☁️ Cloud & Infra | 📋 GRC |
+|---|---|---|---|---|
+| Pentest · Metasploit · Nmap | SOC · SIEM · Splunk · Snort | VLAN · VPN · Firewall · IDS/IPS | Azure · Kubernetes · Helm · CI/CD | EBIOS RM · MEHARI · ISO 27001 |
+| EternalBlue · Pass-the-Hash | Blue Team · Réponse incidents | Active Directory · LAPS · PKI | Hub & Spoke · Docker · GitHub Actions | Analyse de risques · RGPD |
+| Kali Linux · Wireshark | Analyse de logs · Threat Intel | Cisco · Fortinet · Windows Server | VMware · Proxmox · Linux | Conformité · ISO 27005 |
 ## 🛠️ Compétences Techniques & Expertise
 
 ### 🐍 Programmation & Scripting
