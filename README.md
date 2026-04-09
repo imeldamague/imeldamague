@@ -44,22 +44,17 @@
 
 ## 🚀 À propos de moi
 
-Étudiante en **Master Cybersécurité & Réseaux**, passionnée par la protection des infrastructures numériques, la détection des menaces et la sécurisation des systèmes d'information.
+Étudiante en **Master Cybersécurité & Réseaux (Ingetis Paris)**, je rejoins **CESI École d'Ingénieurs** en octobre 2026.
+Disponible en alternance dès **septembre 2026** — 3 semaines entreprise / 1 semaine cours.
 
- Je développe des compétences transverses couvrant la **cybersécurité opérationnelle**, l'**administration systèmes et réseaux**, la **sécurité cloud** et le **DevOps sécurisé** — avec une approche à la fois offensive (pentest) et défensive (SOC, Blue Team).
+Profil hybride **offensif & défensif** : je pentest le matin et j'analyse les logs le soir.
+14 mois d'expérience pro sur des environnements Azure, Cisco, Splunk, Active Directory et Kubernetes.
 
- À travers mes projets techniques, je travaille sur des environnements impliquant **SIEM, Kubernetes, GitHub Actions, Azure, Active Directory, EBIOS RM, tests d'intrusion et analyse de logs**.
-
- **Recherche une alternance en cybersécurité à partir de septembre 2026** — SOC / Admin Sys & Réseaux / Cloud Security / Pentest.
-
-**Domaines de spécialisation :**
-
--  **Opérations SOC / Blue Team**– SIEM, analyse de logs, détection d'incidents
--  **Pentest & analyse de vulnérabilités** – Kali Linux, Nmap, Metasploit, EternalBlue
--  **Sécurité réseau & systèmes** – VLAN, VPN, IDS/IPS, Active Directory, LAPS, PKI
--  **Cloud & DevOps sécurisé** – Azure Hub & Spoke, Kubernetes, Helm, GitHub Actions
--  **Cryptographie** – GnuPG, OpenSSL, chiffrement asymétrique et symétrique
--  **GRC & conformité** – EBIOS RM, MEHARI, ISO 27001, RGPD
+| 🔴 Offensif | 🔵 Défensif | ☁️ Cloud & Infra | 📋 GRC |
+|---|---|---|---|
+| Pentest · Metasploit · Nmap | SOC · SIEM · Splunk · Snort | Azure · Kubernetes · Helm · CI/CD | EBIOS RM · MEHARI · ISO 27001 · RGPD |
+| EternalBlue · Pass-the-Hash | IDS/IPS · Analyse de logs | Hub & Spoke · VPN · VLAN | Analyse de risques · PKI |
+| Kali Linux · Burp Suite | Blue Team · Réponse incidents | GitHub Actions · Docker | Conformité · RGPD |
 
 ## 🛠️ Compétences Techniques & Expertise
 
