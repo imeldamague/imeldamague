@@ -27,9 +27,11 @@
 
 </p>
 <p align="center">
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imelda-magu%C3%A9-a769ab271)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeldamague96@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imeldamague)
+[![Téléphone](https://img.shields.io/badge/T%C3%A9l%C3%A9phone-+33%207%2058%2060%2059%2038-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+33758605938)
 
 </p>
 
@@ -193,53 +195,36 @@ Compétences :
 - Chiffrement **symétrique** avec OpenSSL — algorithmes AES, gestion des clés
 - Sécurisation des communications et confidentialité des échanges
 - Principes fondamentaux : confidentialité, intégrité, non-répudiation
-
-# 📜 Certifications
-
-## 🛡️ Cybersécurité
-
-- ANSSI – SecNum Académie 
-- Fortinet Certified Associate Cybersecurity *(en cours)*
-- Fortinet NSE 1 
-
-
-## 🌐 Réseaux
-
-- Cisco CCNA *(en cours)*
-
-## 🔐 Analyse & Défense
-
-- Cisco Junior Cybersecurity Analyst *(en cours)*
-- Cisco Ethical Hacker *(en cours)*
----
-
-# 💼 Points forts de l’expérience professionnelle
-
----
-### 🔰 TSG Cameroun — Apprentie Analyste Cybersécurité ( 12 mois)
-
-◆ Administration et surveillance des infrastructures Microsoft : Azure AD, Intune  
-◆ Gestion et supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS)  
-◆ Automatisation des tâches avec PowerShell et Python  
-◆ Gestion des tickets ITSM (incidents, demandes, changements)
+  
 
 ---
 
-### 🌐 TSA Consulting Cameroun — stagiaire Administratrice Systèmes & Réseaux (3 mois)
+## 💼 Expérience professionnelle
 
-◆ Configuration d’infrastructures réseau (VLAN, Wi-Fi, VPN)  
-◆ Déploiement et administration de la solution GLPI  
-◆ Mise en place de la virtualisation avec VMware  
-◆ Analyse des vulnérabilités et correctifs de sécurité
+### TSG Cameroun — Apprentie Analyste Cybersécurité (12 mois)
+- Administration Azure AD et Microsoft Intune
+- Supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS, Wazuh/Splunk)
+- Automatisation avec PowerShell et Python
+- Gestion des tickets ITSM (incidents, demandes, changements)
+
+### TSA Consulting Cameroun — Stagiaire Admin Systèmes & Réseaux (3 mois)
+- Configuration d'infrastructures réseau (VLAN, Wi-Fi, VPN)
+- Déploiement et administration GLPI
+- Analyse des vulnérabilités et application des correctifs
+
+### FIDIT Conseil Cameroun — Assistante Support & Réseaux (6 mois)
+- Support technique et résolution d'incidents
+- Gestion des comptes Active Directory
+- Application des bonnes pratiques de sécurité
 
 ---
+## 🎓 Formation
 
-### 💻 FIDIT Conseil Cameroun — Assistante Support & Réseaux (6 mois)
-
-◆ Support technique utilisateurs et résolution d’incidents  
-◆ Maintenance des postes de travail et diagnostic des pannes  
-◆ Gestion des comptes Active Directory  
-◆ Application des bonnes pratiques de sécurité informatique
+| Institution | Diplôme | Période |
+|---|---|---|
+| **CESI École d'Ingénieurs** | Mastère Manager Infrastructures & Cybersécurité des SI | Oct. 2026 – 2028 |
+| **Ingetis Paris** | Master Cybersécurité & Réseaux | Sept. 2025 – 2026 |
+| **Keyce Academy** | Bachelor Admin Systèmes, Réseaux & Sécurité | 2024 – 2025 |
 
 ---
 
@@ -366,35 +351,16 @@ Analyse des mécanismes de sécurité Windows, notamment :
 
 ---
 
-⭐ Ces laboratoires ont été réalisés dans un environnement de **machines virtuelles et de simulation d’attaques** afin de développer des compétences pratiques en **cybersécurité offensive et défensive**.
-## 🔎 Compétences Clés
+ Ces laboratoires ont été réalisés dans un environnement de **machines virtuelles et de simulation d’attaques** afin de développer des compétences pratiques en **cybersécurité offensive et défensive**.
 
-### 🛡️ Spécialisations Cybersécurité
+## 📜 Certifications
 
-| 🔐 SOC / CSIRT | 🔎 Analyse de vulnérabilités | 🔍 Pentesting | 🌐 Sécurité Réseau |
-|---|---|---|---|
-| ☁️ Sécurité Cloud | 🔒 Cryptographie | 📊 Gestion des risques | 🚨 Réponse aux incidents |
-| 📋 ISO 27001 / RGPD | 🌍 Threat Intelligence | 📈 SIEM / Surveillance | 🛡️ EBIOS RM / MEHARI |
-
----
-
-### 🚀 Compétences Techniques
-
-| 🐍 Python / PowerShell | 🔧 Administration systèmes | 🌐 Configuration réseau | 🗄️ Bases de données |
-|---|---|---|---|
-| ☁️ Azure / Cloud | 🛠️ Sécurité infrastructure | ⚙️ Kubernetes / Helm | 🔁 CI/CD GitHub Actions |
-| 🖥️ VMware / Proxmox | 📊 Power BI | 🔄 Agile / Scrum | 📡 Virtualisation |
-
-
----
-
-## 🎓 Formation
-
-| 🏫 Institution | 📚 Diplôme | 📅 Période | 📍 Statut |
-|---------------|-----------|-----------|-----------|
-| **Ingetis Paris** | Master 1 Cybersécurité & Réseaux | Septembre 2025 – Présent | En cours |
-| **Keyce Academy** | Bachelor Administration Systèmes, Réseaux & Sécurité | 2024 – 2025 | Diplômée |
-
+| Certification | Statut |
+|---|---|
+| ANSSI – SecNumAcadémie | ✅ Obtenue |
+| Fortinet NSE 1 | ✅ Obtenue |
+| Fortinet Certified Associate Cybersecurity | 🔄 En cours |
+| Cisco CCNA | 🔄 En cours |
 
 ---
 
@@ -452,8 +418,6 @@ Analyse des mécanismes de sécurité Windows, notamment :
 
 
 "Sécuriser les infrastructures numériques et contribuer à un cyberespace plus sûr grâce à l’analyse, la prévention et la réponse aux menaces."
-
-
 
 
 
