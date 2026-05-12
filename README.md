@@ -190,7 +190,7 @@ Compétences :
 
 ## 💼 Expérience professionnelle
 
-### TSG Cameroun — Apprentie Analyste Cybersécurité ( 11 mois)
+### TSG Cameroun — Apprentie Analyste Cybersécurité ( 12 mois)
 - Administration Azure AD et Microsoft Intune
 - Supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS, Wazuh/Splunk)
 - Automatisation avec PowerShell et Python
