@@ -38,9 +38,9 @@
 
 ## 🚀 À propos de moi
 
-Actuellement en Master Cybersécurité & Réseaux (Ingetis Paris), je rejoins CESI École d'Ingénieurs en septembre 2026 pour un Mastère Manager en Infrastructures & Cybersécurité des SI (24 mois · 3 semaines entreprise / 1 semaine cours).
+Actuellement en **Master Cybersécurité & Réseaux à Ingetis Paris**, j'intégrerai en septembre 2026 le **Mastère Manager Infrastructures & Cybersécurité des SI à CESI École d'Ingénieurs**.
 
-Profil hybride offensif & défensif : je travaille aussi bien sur la détection et la supervision que sur les tests d'intrusion et l'analyse de vulnérabilités. À l'aise sur des environnements Microsoft, Linux et Cisco en production
+Profil hybride **offensif & défensif** : je travaille aussi bien sur la détection et la supervision que sur les tests d'intrusion et l'analyse de vulnérabilités. À l'aise sur des environnements Microsoft, Linux et Cisco en production.
 
 | 🔴 Offensif | 🔵 Défensif | 🌐 Réseaux & Systèmes | ☁️ Cloud & Infra | 📋 GRC |
 |---|---|---|---|---|
@@ -62,7 +62,6 @@ Profil hybride offensif & défensif : je travaille aussi bien sur la détection 
 ### 💻 Systèmes
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
