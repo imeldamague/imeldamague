@@ -113,7 +113,7 @@ Profil hybride offensif & défensif : je travaille aussi bien sur la détection 
 
 ## 💼 Expérience professionnelle
 
-### TSG Cameroun — Apprentie Analyste Cybersécurité ( 12 mois)
+### TSG Cameroun — Stagiaire Analyste Cybersécurité ( 03 mois)
 - Administration Azure AD et Microsoft Intune
 - Supervision du trafic réseau (Firewall, VLAN, VPN, IDS/IPS, Wazuh/Splunk)
 - Automatisation avec PowerShell et Python
