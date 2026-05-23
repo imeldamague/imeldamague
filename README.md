@@ -219,13 +219,12 @@ Analyse SAM/SID, gestion des comptes et mécanismes d'authentification Windows.
 | Fortinet Certified Associate Cybersecurity | 🔄 En cours |
 | Cisco CCNA | 🔄 En cours |
 
-
 ## 💡 Ce qui me caractérise
 
-🔹 À l'aise aussi bien en offensif qu'en défensif
-🔹 J'automatise ce qui peut l'être : Python, PowerShell, Bash au quotidien
-🔹 Rigueur technique et sens de l'analyse sur des environnements complexes
-🔹 Travail en équipe : projets Scrum, architectures multi-sites, environnements client
+🔹 À l'aise aussi bien en offensif qu'en défensif  
+🔹 J'automatise ce qui peut l'être : Python, PowerShell, Bash au quotidien  
+🔹 Rigueur technique et sens de l'analyse sur des environnements complexes  
+🔹 Travail en équipe : projets Scrum, architectures multi-sites, environnements client  
 🔹 Curieuse et autonome — je construis mes labs et documente chaque projet
 
 ---
