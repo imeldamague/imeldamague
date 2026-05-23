@@ -13,14 +13,18 @@
 </p>
 <p align="center">
 
-![SOC](https://img.shields.io/badge/SOC-Intermédiaire-blue)
-![Pentest](https://img.shields.io/badge/Pentesting-Intermédiaire-red)
-![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Intermédiaire-lightgrey)
-![DevOps](https://img.shields.io/badge/DevOps-Intermédiaire-orange)
-![Admin Sys](https://img.shields.io/badge/Admin_Systèmes-Intermédiaire-green)
-![GRC](https://img.shields.io/badge/GRC_ISO27001-Intermédiaire-purple)
+![SOC](https://img.shields.io/badge/SOC-Opérationnel-blue)
+![Pentest](https://img.shields.io/badge/Pentesting-Opérationnel-red)
+![Admin Sys](https://img.shields.io/badge/Admin_Systèmes_%26_Réseaux-Opérationnel-green)
+![Analyse Vuln](https://img.shields.io/badge/Analyse_Vulnérabilités-Opérationnel-yellow)
+![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Opérationnel-lightgrey)
+![GRC](https://img.shields.io/badge/GRC_ISO27001-Opérationnel-purple)
+![Cryptographie](https://img.shields.io/badge/Cryptographie-Notions-9cf)
+![DevOps](https://img.shields.io/badge/DevOps_%26_Infra-Notions-orange)
 
 </p>
+
+
 <p align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imelda-magu%C3%A9-a769ab271)
@@ -40,9 +44,9 @@ Profil hybride offensif & défensif : je travaille aussi bien sur la détection 
 
 | 🔴 Offensif | 🔵 Défensif | 🌐 Réseaux & Systèmes | ☁️ Cloud & Infra | 📋 GRC |
 |---|---|---|---|---|
-| Pentest · Metasploit · Nmap | SOC · SIEM · Splunk · Snort | VLAN · VPN · Firewall · IDS/IPS | Azure · Kubernetes · Helm · CI/CD | EBIOS RM · MEHARI · ISO 27001 |
-| EternalBlue · Pass-the-Hash | Blue Team · Réponse incidents | Active Directory · LAPS · PKI | Hub & Spoke · Docker · GitHub Actions | Analyse de risques · RGPD |
-| Kali Linux · Wireshark | Analyse de logs · Threat Intel | Cisco · Fortinet · Windows Server | VMware · Proxmox · Linux | Conformité · ISO 27005 |
+| Pentest · Metasploit · Nmap | SOC · SIEM · Splunk · Wazuh | VLAN · VPN · Firewall · IDS/IPS | Azure · Kubernetes · Helm · CI/CD | EBIOS RM · MEHARI · ISO 27001 |
+| Nessus · OpenVAS · EternalBlue | Snort · Suricata · Réponse incidents | Active Directory · LAPS · PKI · pfSense | Hub & Spoke · Docker · GitHub Actions | NIST CSF · Analyse de risques · RGPD |
+| Kali Linux · Wireshark · Pass-the-Hash | Analyse de logs · Threat Intel | Cisco · Fortinet · DNS · DHCP | VMware · Proxmox · AWS · Hyper-V | Conformité · ISO 27005 |
 
 ---
 
@@ -68,6 +72,17 @@ Profil hybride offensif & défensif : je travaille aussi bien sur la détection 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-0070C0?style=for-the-badge&logoColor=white)
+
+---
+
+### 🔍 Analyse de Vulnérabilités
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -82,6 +97,7 @@ Profil hybride offensif & défensif : je travaille aussi bien sur la détection 
 ### ☁️ Cloud & Sécurité Entreprise
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Intune](https://img.shields.io/badge/Azure_AD_Intune-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01E2B?style=for-the-badge)
 
 ---
@@ -96,6 +112,7 @@ Profil hybride offensif & défensif : je travaille aussi bien sur la détection 
 
 ### 🖥️ Virtualisation
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge)
 
@@ -103,14 +120,15 @@ Profil hybride offensif & défensif : je travaille aussi bien sur la détection 
 
 ### 📋 GRC & Cryptographie
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-005571?style=for-the-badge&logoColor=white)
+![ISO 27005](https://img.shields.io/badge/ISO_27005-005571?style=for-the-badge&logoColor=white)
 ![EBIOS RM](https://img.shields.io/badge/EBIOS_RM-D32F2F?style=for-the-badge&logoColor=white)
+![MEHARI](https://img.shields.io/badge/MEHARI-7B1FA2?style=for-the-badge&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A237E?style=for-the-badge&logoColor=white)
 ![RGPD](https://img.shields.io/badge/RGPD/GDPR-1565C0?style=for-the-badge&logoColor=white)
 ![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnu&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-  
 
 ---
-
 ## 💼 Expérience professionnelle
 
 ### TSG Cameroun — Stagiaire Analyste Cybersécurité ( 03 mois)
@@ -195,7 +213,7 @@ Analyse SAM/SID, gestion des comptes et mécanismes d'authentification Windows.
 
 | Certification | Statut |
 |---|---|
-| Cisco CyberOps Associate | ✅ Obtenue |
+| Cisco Junior Cybersecurity Analyst | ✅ Obtenue |
 | ANSSI – SecNumAcadémie | ✅ Obtenue |
 | Fortinet NSE 1 | ✅ Obtenue |
 | Fortinet Certified Associate Cybersecurity | 🔄 En cours |
