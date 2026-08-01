@@ -38,7 +38,7 @@
 
 ## 🚀 À propos de moi
 
-Actuellement en **Master Cybersécurité & Réseaux à Ingetis Paris**, j'intégrerai en septembre 2026 le **Mastère Manager Infrastructures & Cybersécurité des SI à CESI École d'Ingénieurs**.
+j'intégrerai en septembre 2026 le **Mastère Manager Infrastructures & Cybersécurité des SI à CESI École d'Ingénieurs**.
 
 Profil hybride **offensif & défensif** : je travaille aussi bien sur la détection et la supervision que sur les tests d'intrusion et l'analyse de vulnérabilités. À l'aise sur des environnements Microsoft, Linux et Cisco en production.
 
