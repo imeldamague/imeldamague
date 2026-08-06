@@ -13,11 +13,11 @@
 </p>
 <p align="center">
 
+![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Opérationnel-lightgrey)
+![Admin Sys](https://img.shields.io/badge/Admin_Systèmes_%26_Réseaux-Opérationnel-green)
 ![SOC](https://img.shields.io/badge/SOC-Opérationnel-blue)
 ![Pentest](https://img.shields.io/badge/Pentesting-Opérationnel-red)
-![Admin Sys](https://img.shields.io/badge/Admin_Systèmes_%26_Réseaux-Opérationnel-green)
 ![Analyse Vuln](https://img.shields.io/badge/Analyse_Vulnérabilités-Opérationnel-yellow)
-![Cloud Security](https://img.shields.io/badge/Sécurité_Cloud-Opérationnel-lightgrey)
 ![GRC](https://img.shields.io/badge/GRC_ISO27001-Opérationnel-purple)
 ![Cryptographie](https://img.shields.io/badge/Cryptographie-Notions-9cf)
 ![DevOps](https://img.shields.io/badge/DevOps_%26_Infra-Notions-orange)
