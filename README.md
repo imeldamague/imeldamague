@@ -9,7 +9,7 @@
 <h1 align="center">Imelda Magué</h1>
 <p align="center">
 🛡️ Cybersécurité | Réseaux & Systèmes | Cloud & Infra<br>
-🚀 Alternance recherchée à partir de septembre 2026 · SOC · Pentest · Admin Sys · Cloud Security
+🚀 Alternance recherchée à partir de septembre 2026  Admin Sys · Cloud Security · SOC · Pentest 
 </p>
 <p align="center">
 
