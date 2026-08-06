@@ -42,11 +42,11 @@ j'intégre en septembre 2026 le **Mastère Manager Infrastructures & Cybersécur
 
 Profil hybride **offensif & défensif** : je travaille aussi bien sur la détection et la supervision que sur les tests d'intrusion et l'analyse de vulnérabilités. À l'aise sur des environnements Microsoft, Linux et Cisco en production.
 
-| 🔴 Offensif | 🔵 Défensif | 🌐 Réseaux & Systèmes | ☁️ Cloud & Infra | 📋 GRC |
+| ☁️ Cloud & Infra | 🌐 Réseaux & Systèmes | 🔵 Défensif | 🔴 Offensif | 📋 GRC |
 |---|---|---|---|---|
-| Pentest · Metasploit · Nmap | SOC · SIEM · Splunk · Wazuh | VLAN · VPN · Firewall · IDS/IPS | Azure · Kubernetes · Helm · CI/CD | EBIOS RM · MEHARI · ISO 27001 |
-| Nessus · OpenVAS · EternalBlue | Snort · Suricata · Réponse incidents | Active Directory · LAPS · PKI · pfSense | Hub & Spoke · Docker · GitHub Actions | NIST CSF · Analyse de risques · RGPD |
-| Kali Linux · Wireshark · Pass-the-Hash | Analyse de logs · Threat Intel | Cisco · Fortinet · DNS · DHCP | VMware · Proxmox · AWS · Hyper-V | Conformité · ISO 27005 |
+| Azure · Entra ID · Intune · M365 | VLAN · VPN · Firewall · IDS/IPS | SOC · SIEM · Splunk · Wazuh | Pentest · Metasploit · Nmap | EBIOS RM · MEHARI · ISO 27001 |
+| Hub & Spoke · VMware · Proxmox | Active Directory · LAPS · PKI · pfSense | Snort · Suricata · Réponse incidents | Nessus · OpenVAS · EternalBlue | NIST CSF · Analyse de risques · RGPD |
+| AWS · Docker · Kubernetes | Cisco · Fortinet · DNS · DHCP | Analyse de logs · Threat Intel | Kali Linux · Wireshark · Pass-the-Hash | Conformité · ISO 27005 |
 
 ---
 
