@@ -2,7 +2,8 @@
 
 ### Analyste Cybersécurité Junior - SOC & Sécurité des Infrastructures
 
-<p align="center"> <img width="200" height="200" alt="Capture d’écran 2026-07-23 003431" src="https://github.com/user-attachments/assets/92863bd4-f873-45a3-a4a4-97956fa7da4c" />
+<p align="center"> <img width="200" height="200" alt="Capture d’écran 2026-07-23 003431" src="https://github.com/user-attachments/assets/f2bfc7f6-b307-4fc2-a2ee-14c30c57eb15" />
+
  </p>
 
 Étudiante en cybersécurité orientée **défense**, avec une expérience professionnelle en **supervision de sécurité**, **environnements Microsoft** et **infrastructures réseau**.
