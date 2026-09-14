@@ -2,7 +2,7 @@
 
 ### Analyste Cybersécurité Junior - SOC & Sécurité des Infrastructures
 
-<p align="center"> <img width="200" height="200" alt="Capture d’écran 2026-07-23 003431" src="https://github.com/user-attachments/assets/f2bfc7f6-b307-4fc2-a2ee-14c30c57eb15" />
+<p align="center"> <img width="400" height="400" alt="pp" src="https://github.com/user-attachments/assets/52be05fb-dd6d-4375-8044-d65022bdc707" />
 
  </p>
 
