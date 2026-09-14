@@ -2,7 +2,7 @@
 
 ### Analyste Cybersécurité Junior - SOC & Sécurité des Infrastructures
 
-<p align="center"> <img width="500" height="300" alt="pp" src="https://github.com/user-attachments/assets/52be05fb-dd6d-4375-8044-d65022bdc707" />
+<p align="center"> <img width="300" height="500" alt="pp" src="https://github.com/user-attachments/assets/52be05fb-dd6d-4375-8044-d65022bdc707" />
 
  </p>
 
