@@ -1,6 +1,7 @@
 # 👋 Bonjour, je suis Imelda Magué
 
 🔐 **Étudiante en Mastère 2 Expert Cybersécurité & IA** à **Sup de Vinci** (Paris La Défense)
+
 🎯 **À la recherche d'une alternance** (disponible immédiatement, rythme 3 sem. / 1 sem.) ou d'un **stage de fin d'études** (6 mois dès janvier 2027) en **IAM, SOC ou Sécurité des Infrastructures**.
 
 ---
@@ -9,7 +10,7 @@
 
 - **Gestion des identités et des accès (IAM) :** Administration Microsoft Entra ID, Active Directory, Intune, GPO, LAPS, PKI/AD CS et automatisation via PowerShell & Python.
 - **Supervision & Détection (SOC / Blue Team) :** Qualification d'alertes sous Microsoft Sentinel et Splunk, détection d'intrusion (Snort 3), analyse réseau et gestion des vulnérabilités (Nessus).
-- **Gouvernance, Risques & Conformité (GRC) :** Analyse de risques selon EBIOS RM et MEHARI, référentiels ISO 27001/27005, RGPD et directive NIS2.
+- **Gouvernance, Risques & Conformité (GRC) :** Analyse de risques selon EBIOS RM et MEHARI, référentiels ISO 27001/27005, RGPD et directive NIS2(notions)
 
 ---
 
