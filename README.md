@@ -1,8 +1,8 @@
 # 👋 Bonjour, je suis Imelda Magué
 
-🔐 **Étudiante en Mastère 2 Expert Cybersécurité & IA** à **Sup de Vinci** (Paris La Défense)
+ **Étudiante en Mastère 2 Expert Cybersécurité & IA** à **Sup de Vinci** (Paris La Défense)
 
-🎯 **À la recherche d'une alternance** (disponible immédiatement, rythme 3 sem. / 1 sem.) ou d'un **stage de fin d'études** (6 mois dès janvier 2027) en **IAM, SOC ou Sécurité des Infrastructures**.
+ **À la recherche d'une alternance** (disponible immédiatement, rythme 3 sem. / 1 sem.) ou d'un **stage de fin d'études** (6 mois dès janvier 2027) en **IAM, SOC ou Sécurité des Infrastructures**.
 
 ---
 
