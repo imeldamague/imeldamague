@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Imelda Magué
+# 👋 Bonjour, je suis Imelda Magué.
 
  **Étudiante en Mastère 2 Expert Cybersécurité & IA** à **Sup de Vinci** (Paris La Défense)
 
